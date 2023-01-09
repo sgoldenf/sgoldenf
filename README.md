@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ekaterina, I'm from Novosibirsk
+- 🎒 I'm currently studying at [School 21](https://21-school.ru/)
+- 🔭 I’m currently working on Algorithms (Desktop App for Maze generation and solving)
+- 🌱 I’m currently learning C++, Golang, Algorithms
+- 📫 [My Telegram](https://t.me/sgoldenf)
+
+### My skills 🔧
+
+- Languages: C/C++, Golang, Bash
+- Frameworks: Qt
+- DB: PostgreSQL
+- DevOps: Docker, Nginx, CI/CD, Prometheus, Grafana
