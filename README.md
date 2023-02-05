@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Ekaterina, I'm from Novosibirsk
-- 🎒 I'm currently studying at [School 21](https://21-school.ru/). All our projects are in private GitLab repository, so i added most recent ones here.
+- 🎒 I'm currently studying at [School 21](https://21-school.ru/). All our projects are in private GitLab repositories, so i added most recent ones here.
 - 🔭 I’m currently working on Algorithms (Desktop [App](https://github.com/sgoldenf/A-Maze-ing) for Maze generation and solving)
 - 🌱 I’m currently learning C++, Golang, Algorithms
 - 📫 [My Telegram](https://t.me/sgoldenf)
