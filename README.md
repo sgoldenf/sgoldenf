@@ -26,4 +26,3 @@ My name is Ekaterina, I'm from Novosibirsk
 - Languages: C/C++, Golang, Bash
 - Frameworks: Qt
 - DB: PostgreSQL
-- DevOps: Docker, Nginx, CI/CD, Prometheus, Grafana
