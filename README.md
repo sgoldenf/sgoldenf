@@ -19,9 +19,3 @@ My name is Ekaterina, I'm from Novosibirsk
 - 🎒 I'm currently studying at [School 21](https://21-school.ru/).
 - 🔭 I’m currently working as Golang Developer in Wildberries (since July 2023)
 - 📫 [My Telegram](https://t.me/sgoldenf)
-
-### My skills 🔧
-
-- Languages: C/C++, Golang, Bash
-- Frameworks: Qt
-- DB: PostgreSQL
