@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 My name is Ekaterina, I'm from Novosibirsk
 - 🎒 I'm currently studying at [School 21](https://21-school.ru/).
-- 🔭 I’m currently working as Golang Developer in Wildberries (since July 2023)
+- 🔭 I’m currently working as Golang Developer at PostgresPro (since May 2024)
 - 📫 [My Telegram](https://t.me/sgoldenf)
